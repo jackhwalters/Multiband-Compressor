@@ -4,8 +4,7 @@
               jucerVersion="5.4.7">
   <MAINGROUP id="H6ER72" name="DAFXMultibandCompressor">
     <GROUP id="{F6C10C95-1CC2-B8D2-331C-B65963BAD01E}" name="Resources">
-      <FILE id="b6eUlT" name="Mattblack.jpg" compile="0" resource="1" file="Mattblack.jpg"
-            xcodeResource="0"/>
+      <FILE id="Vamigc" name="Mattblack.jpg" compile="0" resource="1" file="Source/Mattblack.jpg"/>
     </GROUP>
     <GROUP id="{895F00C2-E232-167B-D50C-860407A5A00F}" name="Source">
       <FILE id="Q7B4Zl" name="PluginProcessor.cpp" compile="1" resource="0"
